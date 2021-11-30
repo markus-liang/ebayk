@@ -35,8 +35,8 @@ Coding guidance: Combine "clean, object-oriented code" with "working software".
 
 What would you do if you had more time? Which trade-offs did you take?
 
-* FILL-ME 1
-* FILL-ME 2
+I am  still not sure if I need to add the Gender property to the Person class explicitly.
+So far it is usefull for filtering.
 
 
 Have fun!
